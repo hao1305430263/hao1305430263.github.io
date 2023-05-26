@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Hao Yuanbo'
-author_bio: 'Your biography can be writed down here.'
+author_bio: ''
 
 since: 1996
 
