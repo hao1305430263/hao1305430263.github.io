@@ -24,6 +24,8 @@ jobs:
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
+      - name: download model
+        run : npm install hexo-renderer-pug hexo-renderer-stylus --save
       - name: Build
         run: npm run build
       - name: Deploy
