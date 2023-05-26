@@ -2,10 +2,10 @@ favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
+author: 'Hao Yuanbo'
 author_bio: 'Your biography can be writed down here.'
 
-since: 2020
+since: 1996
 
 # Top Menu 顶部菜单
 # #title 为页内跳转，单页模式
@@ -13,7 +13,6 @@ since: 2020
 menu:
   Publications: /#Publications
   About: /
-  Blog: https://phower.me
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -25,16 +24,16 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: /
-  fab fa-facebook-square: /
-  fab fa-github: /
-  fab fa-stack-overflow: /
-  fab fa-linkedin: /
-  fab fa-weibo: /
-  fab fa-weixin: /
-  fab fa-qq: /
-  fas fa-envelope: / #E-mail
-  fas fa-rss: /  #rss
+  # fab fa-twitter: /
+  # fab fa-facebook-square: /
+  fab fa-github: hao1305430263/
+  # fab fa-stack-overflow: /
+  # fab fa-linkedin: /
+  # fab fa-weibo: /
+  fab fa-weixin: hao130540263/
+  # fab fa-qq: /
+  fas fa-envelope: haouanbo@foxmail.com / #E-mail
+  # fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
 # name: url || icon_name
